@@ -2,9 +2,8 @@
 
 Hi 👋, I'm Tuan, a Software Engineer 👨‍💻
 
-🔭 I am passionate about web development, new technologies and learning things like Server component , Block chain
+🔭 I am enthusiastic about backend development and blockchain.
 
-🌱 I’m currently learning the NextJS 13 with react 18 | new MongoDB (v6) features
 
 # 💻 Tech Stack
 
